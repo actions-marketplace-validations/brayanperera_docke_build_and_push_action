@@ -1,4 +1,5 @@
 name: 'Docker Build And Push to registry GitHub Action'
+description: 'Docker Build And Push to registry GitHub Action'
 inputs:
   image:
     description: 'Name of the Docker image'
